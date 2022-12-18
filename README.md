@@ -31,7 +31,8 @@ Here are data visualizations that depict the various relationships via scatter p
 
 ![image](https://user-images.githubusercontent.com/112766091/208305953-832c367a-9d99-495a-a1d0-fa8895e2b044.png)
 
-![image](https://user-images.githubusercontent.com/112766091/208305970-cc47d682-bdff-445d-b5ad-5737795840fb.png)
+![image](https://user-images.githubusercontent.com/112766091/208306700-dfdb1c05-88b8-4638-b5c8-cb7aeae158a1.png)
+
 
 
 
