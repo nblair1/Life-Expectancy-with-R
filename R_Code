@@ -1,0 +1,39 @@
+# Install and load the tidyverse and ggplot2 packages
+install.packages("tidyverse")
+library(tidyverse)
+
+# Create a scatter plot of HappinessScore and FertilityRate
+ggplot(data, aes(x = FertilityRate, y = HappinessScore)) +
+  geom_point() +
+  geom_smooth(method = "lm", se = FALSE) +
+  labs(x = "Fertility Rate", y = "Happiness Score")
+
+# Create a scatter plot of LifeMen and LifeWomen
+ggplot(data, aes(x = LifeMen, y = LifeWomen)) +
+  geom_point() +
+  geom_smooth(method = "lm", se = FALSE) +
+  labs(x = "Life Expectancy (Men)", y = "Life Expectancy (Women)")
+
+# Create a scatter plot of FertilityRate and Country
+ggplot(data, aes(x = Country, y = FertilityRate)) +
+  geom_point() +
+  geom_smooth(method = "lm", se = FALSE) +
+  labs(x = "Country", y = "Fertility Rate")
+
+# Create a scatter plot of HappinessScore and LifeWomen
+ggplot(data, aes(x = LifeWomen, y = HappinessScore)) +
+  geom_point() +
+  geom_smooth(method = "lm", se = FALSE) +
+  labs(x = "Life Expectancy (Women)", y = "Happiness Score")
+
+# Create a scatter plot of HappinessScore and LifeMen
+ggplot(data, aes(x = LifeMen, y = HappinessScore)) +
+  geom_point() +
+  geom_smooth(method = "lm", se = FALSE) +
+  labs(x = "Life Expectancy (Men)", y = "Happiness Score")
+
+# Create a scatter plot of LifeMen, LifeWomen, and HappinessScore
+ggplot(data, aes(x = LifeMen, y = LifeWomen, color = HappinessScore)) +
+  geom_point() +
+  geom_smooth(method = "lm", se = FALSE) +
+  labs(x = "Life Expectancy (Men)", y = "Life Expectancy (Women)", color = "Happiness Score")
