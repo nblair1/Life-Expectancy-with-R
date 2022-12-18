@@ -24,3 +24,15 @@ Overall, the analysis conducted on the LifeExpectancy dataset suggests that both
 Here are data visualizations that depict the various relationships via scatter plots:
 
 ![image](https://user-images.githubusercontent.com/112766091/208305892-8f1670b3-45c7-4127-9c35-fd81f78dc573.png)
+
+![image](https://user-images.githubusercontent.com/112766091/208305917-00c2b3d5-8a2f-4846-86b1-98d4e2bac0c7.png)
+
+![image](https://user-images.githubusercontent.com/112766091/208305946-56423b25-5565-4091-b571-b419de985e6e.png)
+
+![image](https://user-images.githubusercontent.com/112766091/208305953-832c367a-9d99-495a-a1d0-fa8895e2b044.png)
+
+![image](https://user-images.githubusercontent.com/112766091/208305970-cc47d682-bdff-445d-b5ad-5737795840fb.png)
+
+
+
+
