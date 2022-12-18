@@ -20,3 +20,7 @@ Additionally, a boxplot was used to compare the happiness scores of men and wome
 Conclusion
 Overall, the analysis conducted on the LifeExpectancy dataset suggests that both life expectancy and fertility rate may be important factors in determining happiness score. However, the relative importance of these factors appears to differ between men and women. Further analysis and interpretation of these results could potentially provide more insight into the underlying relationships between these variables.
 
+
+Here are data visualizations that depict the various relationships via scatter plots:
+
+![image](https://user-images.githubusercontent.com/112766091/208305892-8f1670b3-45c7-4127-9c35-fd81f78dc573.png)
